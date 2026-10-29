@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cod_autenticador
 
 Componente independiente para validar el almacenamiento local de una extensión
@@ -100,3 +101,7 @@ code = service.get_code("portal_empresa")
 
 Los proveedores de LevelDB, exportación y DevTools se agregarán detrás de esa
 interfaz cuando el formato real de la versión instalada haya sido validado.
+=======
+# autenticador_API
+Codigo que permite extraer el codigo de verificación de google chrome para llevar a cabo  automatizaciones.
+>>>>>>> 4e13f87b5997244ddb10c2c758aba5bdfe143d32
