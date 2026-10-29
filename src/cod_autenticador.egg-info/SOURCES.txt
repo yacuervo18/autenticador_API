@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/cod_autenticador/__init__.py
+src/cod_autenticador/__main__.py
+src/cod_autenticador/cli.py
+src/cod_autenticador/errors.py
+src/cod_autenticador/inspector.py
+src/cod_autenticador/profile.py
+src/cod_autenticador/service.py
+src/cod_autenticador/totp.py
+src/cod_autenticador.egg-info/PKG-INFO
+src/cod_autenticador.egg-info/SOURCES.txt
+src/cod_autenticador.egg-info/dependency_links.txt
+src/cod_autenticador.egg-info/entry_points.txt
+src/cod_autenticador.egg-info/top_level.txt
+tests/test_inspector.py
+tests/test_totp.py

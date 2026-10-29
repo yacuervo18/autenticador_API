@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: cod-autenticador
+Version: 0.1.0
+Summary: Componente aislado para validar fuentes y generar códigos TOTP.
+Requires-Python: >=3.10

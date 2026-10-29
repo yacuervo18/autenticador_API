@@ -1,0 +1,2 @@
+[console_scripts]
+cod-autenticador = cod_autenticador.cli:main
